@@ -1,0 +1,15 @@
+1.The apple was good quality-Normal
+"Delicious apple! 🍏 The quality was top-notch, crisp and juicy. Would definitely recommend trying it out!"-Fake
+
+2."High-quality cloth! 👕 The material feels great and durable, perfect for any occasion. Definitely worth investing in!"==Fake
+   this is avarage quality==Real
+
+3.in this mobile is camera improper quality==Real 
+"The camera quality on this mobile is not up to par. 📷 Images appear blurry and lack detail. Disappointing for capturing memories."==Fake
+
+4.this shoe is look more attractive==Real
+"This shoe looks incredibly attractive! 👟 The sleek design and vibrant colors make it stand out in any crowd."==Fake
+
+5.this performance is very low==Real
+The performance of this product is subpar. ⚙️ It struggles with tasks and doesn't meet expectations.==Fake
+
